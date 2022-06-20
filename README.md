@@ -1,15 +1,6 @@
 # git-practice
 Project Team Members: 
 Shuyu Song
+Andrew Floyd
 
-
-
-
-
-
-
-
-
-
-
-conflict
+creating a merge conflict
